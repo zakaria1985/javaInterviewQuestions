@@ -31,7 +31,7 @@ public class Sorting {
 		}
 	}
      for(int i=0;i<number.size();i++) {
-    	 System.out.print(" "+number.get(i));
+    	 System.out.print("after sorting "+" "+number.get(i));
      }
 }
 	}
